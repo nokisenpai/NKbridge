@@ -1,0 +1,16 @@
+# NKbridge
+
+# MySQL connection (required)
+use-mysql: false
+table-prefix: NKbridge_
+host: localhost
+port: 3306
+dbName: minecraft_dev
+user: root
+password: 
+
+
+# Options
+
+# The same name gave to Bungee config
+server-name: 'world'

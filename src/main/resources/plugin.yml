@@ -1,0 +1,12 @@
+name: NKbridge
+main: be.noki_senpai.NKbridge.NKbridge
+version: 0.0.4
+api-version: 1.14
+author: 'NoKi_senpai'
+description: 'Bridge for players data (inv, life, food, level, advancments, effect, etc ...)'
+website: www.lumen.ovh
+depend: [NKmanager]
+commands:
+  bridge:
+    description: "Global NKbridge command"
+    usage: /<command> <args>
