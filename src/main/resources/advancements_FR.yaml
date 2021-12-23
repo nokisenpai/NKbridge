@@ -1,0 +1,297 @@
+---
+advancements:
+  story/root:
+    name: Minecraft
+    description: Le cœur et l'histoire du jeu
+  story/mine_stone:
+    name: Stone Age
+    description: Mine de pierre avec ta nouvelle pioche
+  story/upgrade_tools:
+    name: Getting an Upgrade
+    description: Construire une meilleure pioche
+  story/smelt_iron:
+    name: Acquire Hardware
+    description: Fondre un lingot de fer
+  story/obtain_armor:
+    name: Suit Up
+    description: Protégez-vous avec une pièce d'armure de fer
+  story/lava_bucket:
+    name: Hot Stuff
+    description: Remplir un seau de lave
+  story/iron_tools:
+    name: Isn't It Iron Pick
+    description: Améliorez votre pioche
+  story/deflect_arrow:
+    name: Not Today, Thank You
+    description: Bloquez un projectile à l'aide de votre bouclier .
+  story/form_obsidian:
+    name: Ice Bucket Challenge
+    description: Obtenir un bloc d'obsidienne
+  story/mine_diamond:
+    name: Diamonds!
+    description: Acquérir des diamants
+  story/enter_the_nether:
+    name: We Need to Go Deeper
+    description: Construisez, allumez et entrez dans un portail du Nether
+  story/shiny_gear:
+    name: Cover Me With Diamonds
+    description: L'armure de diamant sauve des vies
+  story/enchant_item:
+    name: Enchanter
+    description: Enchanter un objet sur une table d'enchantement
+  story/cure_zombie_villager:
+    name: Zombie Doctor
+    description: Affaiblir puis soigner un zombie villageois
+  story/follow_ender_eye:
+    name: Eye Spy
+    description: Suivez un Ender Eye
+  story/enter_the_end:
+    name: The End?
+    description: Entrez dans le portail de fin
+  nether/root:
+    name: Nether
+    description: Apportez des vêtements d'été
+  nether/return_to_sender:
+    name: Return to Sender
+    description: Détruire un Ghast avec une boule de feu
+  nether/find_bastion:
+    name: Those Were the Days
+    description: Entrez dans un vestige de bastion
+  nether/obtain_ancient_debris:
+    name: Hidden in the Depths
+    description: Obtenir des débris antiques
+  nether/fast_travel:
+    name: Subspace Bubble
+    description: Utilisez le Nether pour parcourir 7 km dans l'Overworld
+  nether/find_fortress:
+    name: A Terrible Fortress
+    description: Frayez-vous un chemin dans une forteresse du Nether
+  nether/obtain_crying_obsidian:
+    name: Who is Cutting Onions?
+    description: Obtenir de l' obsidienne pleurante
+  nether/distract_piglin:
+    name: Oh Shiny
+    description: Distraire les Piglins avec de l'or
+  nether/ride_strider:
+    name: This Boat Has Legs
+    description: Montez un Strider avec un champignon déformé sur un bâton
+  nether/uneasy_alliance:
+    name: Uneasy Alliance
+    description: Sauvez un Ghast du Nether , ramenez-le en sécurité dans l' Overworld
+      ... puis tuez-le
+  nether/loot_bastion:
+    name: War Pigs
+    description: Récupérez un coffre dans un Bastion Remnant
+  nether/use_lodestone:
+    name: Country Lode, Take Me Home
+    description: Utiliser une boussole sur un Lodestone
+  nether/netherite_armor:
+    name: Cover Me in Debris
+    description: Obtenez une armure complète de Netherite
+  nether/get_wither_skull:
+    name: Spooky Scary Skeleton
+    description: Obtenir un crâne de Wither Skeleton
+  nether/obtain_blaze_rod:
+    name: Into Fire
+    description: Soulager un Blaze de sa canne
+  nether/charge_respawn_anchor:
+    name: Not Quite &quot;Nine&quot; Lives
+    description: Chargez une ancre de réapparition au maximum
+  nether/ride_strider_in_overworld_lava:
+    name: Feels like home
+    description: Prenez un Strider pour une balade loooong sur un lac de lave dans
+      l'Overworld
+  nether/explore_nether:
+    name: Hot Tourist Destinations
+    description: Explorez tous les biomes du Nether
+  nether/summon_wither:
+    name: Withering Heights
+    description: Invoquer le Wither
+  nether/brew_potion:
+    name: Local Brewery
+    description: Préparez une potion
+  nether/create_beacon:
+    name: Bring Home the Beacon
+    description: Construire et placer une balise
+  nether/all_potions:
+    name: A Furious Cocktail
+    description: Appliquez tous les effets de potion en même temps
+  nether/create_full_beacon:
+    name: Beaconator
+    description: Apportez une balise à pleine puissance
+  nether/all_effects:
+    name: How Did We Get Here?
+    description: Appliquer tous les effets en même temps
+  end/root:
+    name: The End?
+    description: Ou le début ?
+  end/kill_dragon:
+    name: Free the End
+    description: Bonne chance
+  end/dragon_egg:
+    name: The Next Generation
+    description: Tenir l'œuf de dragon
+  end/enter_end_gateway:
+    name: Remote Getaway
+    description: Échapper à l'île
+  end/respawn_dragon:
+    name: The End... Again...
+    description: Faire réapparaître le dragon Ender
+  end/dragon_breath:
+    name: You Need a Mint
+    description: Recueillir le souffle du dragon dans une bouteille en verre
+  end/find_end_city:
+    name: The City at the End of the Game
+    description: Allez-y, qu'est-ce qui pourrait arriver?
+  end/elytra:
+    name: Sky's the Limit
+    description: Trouver des élytres
+  end/levitate:
+    name: Great View From Up Here
+    description: Faites léviter jusqu'à 50 blocs des attaques d'un Shulker
+  adventure/root:
+    name: Adventure
+    description: Aventure, exploration et combat
+  adventure/voluntary_exile:
+    name: Voluntary Exile
+    description: Tuez un capitaine de raid . Pensez peut-être à rester à l'écart des
+      villages pour le moment...
+  adventure/spyglass_at_parrot:
+    name: Is It a Bird?
+    description: Regardez un perroquet à travers une longue-vue
+  adventure/kill_a_mob:
+    name: Monster Hunter
+    description: Tuez n'importe quel monstre hostile
+  adventure/trade:
+    name: What a Deal!
+    description: Échangez avec succès avec un villageois
+  adventure/honey_block_slide:
+    name: Sticky Situation
+    description: Sautez dans un Honey Block pour amortir votre chute
+  adventure/ol_betsy:
+    name: Ol' Betsy
+    description: Tirer à l' arbalète
+  adventure/lightning_rod_with_villager_no_fire:
+    name: Surge Protector
+    description: Protégez un villageois d'un choc indésirable sans allumer un feu
+  adventure/fall_from_world_height:
+    name: Caves & Cliffs
+    description: Chute libre du haut du monde (limite de construction) vers le bas
+      du monde et survivre
+  adventure/sleep_in_bed:
+    name: Sweet Dreams
+    description: Dormez dans un lit pour changer votre point de réapparition
+  adventure/hero_of_the_village:
+    name: Hero of the Village
+    description: Défendre avec succès un village d'un raid
+  adventure/spyglass_at_ghast:
+    name: Is It a Balloon?
+    description: Regarde un fantôme à travers une longue-vue
+  adventure/throw_trident:
+    name: A Throwaway Joke
+    description: 'Jetez un trident sur quelque chose. Remarque : jeter votre seule
+      arme n''est pas une bonne idée.'
+  adventure/shoot_arrow:
+    name: Take Aim
+    description: Tirez quelque chose avec une flèche
+  adventure/kill_all_mobs:
+    name: Monsters Hunted
+    description: Tuez l'un de tous les monstres hostiles
+  adventure/totem_of_undying:
+    name: Postmortal
+    description: Utilisez un Totem of Undying pour tromper la mort
+  adventure/summon_iron_golem:
+    name: Hired Help
+    description: Invoquer un Golem de fer pour aider à défendre un village
+  adventure/trade_at_world_height:
+    name: Star Trader
+    description: Commerce avec un villageois à la limite de hauteur de construction
+  adventure/two_birds_one_arrow:
+    name: Two Birds, One Arrow
+    description: Tuez deux fantômes avec une flèche perçante
+  adventure/whos_the_pillager_now:
+    name: Who's the Pillager Now?
+    description: Donnez à un pilleur un avant-goût de sa propre médecine
+  adventure/arbalistic:
+    name: Arbalistic
+    description: Tuez cinq monstres uniques d'un seul coup d' arbalète
+  adventure/adventuring_time:
+    name: Adventuring Time
+    description: Découvrez chaque biome
+  adventure/play_jukebox_in_meadows:
+    name: Sound of Music
+    description: Donnez vie aux prés au son de la musique d'un juke-box
+  adventure/walk_on_powder_snow_with_leather_boots:
+    name: Light as a Rabbit
+    description: Marcher sur de la poudreuse ...sans s'y enfoncer
+  adventure/spyglass_at_dragon:
+    name: Is It a Plane?
+    description: Regardez le dragon Ender à travers une longue-vue
+  adventure/very_very_frightening:
+    name: Very Very Frightening
+    description: Frappez un villageois avec la foudre
+  adventure/sniper_duel:
+    name: Sniper Duel
+    description: Tuer un squelette à au moins 50 mètres
+  adventure/bullseye:
+    name: Bullseye
+    description: Frappez la cible d'un bloc cible à au moins 30 mètres
+  husbandry/root:
+    name: Husbandry
+    description: Le monde est plein d'amis et de nourriture
+  husbandry/safely_harvest_honey:
+    name: Bee Our Guest
+    description: Utilisez un feu de camp pour collecter le miel d'une ruche à l' aide
+      d'une bouteille sans aggraver les abeilles
+  husbandry/breed_an_animal:
+    name: The Parrots and the Bats
+    description: Élevez deux animaux ensemble
+  husbandry/ride_a_boat_with_a_goat:
+    name: Whatever Floats Your Goat!
+    description: Montez dans un bateau et flottez avec une chèvre
+  husbandry/tame_an_animal:
+    name: Best Friends Forever
+    description: Apprivoiser un animal
+  husbandry/make_a_sign_glow:
+    name: Glow and Behold!
+    description: Faire briller le texte d'un panneau
+  husbandry/fishy_business:
+    name: Fishy Business
+    description: Attraper un poisson
+  husbandry/silk_touch_nest:
+    name: Total Beelocation
+    description: Déplacez un nid d' abeilles , avec 3 abeilles à l' intérieur, en
+      utilisant Silk Touch
+  husbandry/plant_seed:
+    name: A Seedy Place
+    description: Planter une graine et la regarder pousser
+  husbandry/wax_on:
+    name: Wax On
+    description: Appliquez Honeycomb sur un bloc de cuivre !
+  husbandry/bred_all_animals:
+    name: Two by Two
+    description: Élevez tous les animaux!
+  husbandry/complete_catalogue:
+    name: A Complete Catalogue
+    description: Apprivoisez toutes les variantes de chats&amp;nbsp;!
+  husbandry/tactical_fishing:
+    name: Tactical Fishing
+    description: Attrapez un poisson... sans canne à pêche !
+  husbandry/balanced_diet:
+    name: A Balanced Diet
+    description: Mangez tout ce qui est comestible, même si ce n'est pas bon pour
+      vous
+  husbandry/obtain_netherite_hoe:
+    name: Serious Dedication
+    description: Utilisez un lingot de Netherite pour améliorer un houe , puis réévaluez
+      vos choix de vie
+  husbandry/wax_off:
+    name: Wax Off
+    description: Grattez la cire d'un bloc de cuivre&amp;nbsp;!
+  husbandry/axolotl_in_a_bucket:
+    name: The Cutest Predator
+    description: Attraper un axolotl dans un seau
+  husbandry/kill_axolotl_target:
+    name: The Healing Power of Friendship!
+    description: Faites équipe avec un axolotl et gagnez un combat
+...
