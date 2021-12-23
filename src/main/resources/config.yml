@@ -1,0 +1,19 @@
+# NKblank
+
+# MySQL connection
+# Get database access automatically using NKcore API
+use-nkcore-access: true
+
+# Used if use-nkcore-access is set to false. You can connect to another database.
+table-prefix: NKbridge_
+host: localhost
+port: 3306
+dbName: minecraft_dev
+user: root
+password:
+
+# Possible values : DEBUG, LOG, WARN, ERROR
+log-level: LOG
+# Time in second
+auto-save-inventories: 60
+auto-save-advancements: 600

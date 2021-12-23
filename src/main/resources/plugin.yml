@@ -1,0 +1,12 @@
+name: ${project.name}
+main: ovh.lumen.${project.name}.Main
+version: ${project.version}
+api-version: 1.18
+author: 'NoKi_senpai'
+description: 'Bridge for players data (inv, life, food, level, advancements, effect, etc ...'
+website: www.lumen.ovh
+depend: [NKcore]
+commands:
+  ${project.name}:
+    description: "The root plugin command"
+    usage: /<command> [subcommand]
